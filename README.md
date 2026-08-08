@@ -1,8 +1,6 @@
-# Documentação de Erros da Twilio
+# QA Twilio Errors
 
-Material de apoio para **análise de erros da Twilio com foco em QA**, testes de integração e investigação de falhas em APIs.
-
-O objetivo deste repositório é ajudar a identificar um erro, entender sua causa e definir o que deve ser validado durante um teste.
+Dicionário de erros e códigos da Twilio para apoio em testes de integração e análise de falhas.
 
 ---
 
